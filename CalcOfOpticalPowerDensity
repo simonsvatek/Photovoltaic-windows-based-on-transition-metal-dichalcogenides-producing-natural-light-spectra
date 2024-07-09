@@ -10,7 +10,7 @@
 %% this codes follows the method of 
 % (1) Centurioni, E. "Generalized Matrix Method for Calculation of Internal Light Energy Flux in Mixed Coherent and Incoherent Multilayers."
 % Appl. Opt. 2005, 44 (35), 7532. https://doi.org/10.1364/AO.44.007532.
-% Code has been implemented by S. Svatek, Instituto de Energia Solar - Universidad Politecnica de Madrid, Madrid, Spain, EU.
+% First version has been implemented by S. Svatek, Instituto de Energia Solar - Universidad Politecnica de Madrid, Madrid, Spain, EU.
 % Code can be implemented in Matlab or similar.
 
 for c=1:length(lambda) % for each wavelength individually
