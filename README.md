@@ -11,6 +11,6 @@ The name of the file containing the code "CalcOfOpticalPowerDensity" should be u
 
 The optical constants are sources for material parameters and are included in various txt files whose name denote the material. The columns are from left to right: wavelength (either in μm or nm), n, and k.
 
-Credits: S. A. Svatek (initial development) C. Bueno-Blanco, E. Antolín
+Credits: S. A. Svatek (initial development), C. Bueno-Blanco, E. Antolín
 
 Instituto de Energía Solar Universidad Politécnica de Madrid Spain
